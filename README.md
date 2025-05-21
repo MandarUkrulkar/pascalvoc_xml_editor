@@ -25,6 +25,9 @@ Generate a dataset of cropped images from annotated bounding boxes with optional
 ```bash
 pip install -r requirements.txt
 streamlit run main.py
+
+#to visualize
+streamlit run visualize.py
 ```
 
 ## Input
